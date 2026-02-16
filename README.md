@@ -2,8 +2,6 @@
 
 Hey there! I'm Jo. 😀 I'm a data engineer by profession and a self-learning one. I have a degree though, but it is not in Computer Science. Haha. 🤷‍♂️
 
-Hello, I’m Joachim. I am a Data Engineer with a background in Geotechnical Engineering. My professional journey is defined by a transition from physical engineering to data architecture, driven by a commitment to data integrity and automated efficiency.
-
 While my academic foundation is in Civil Engineering, I have spent my career self-developing a technical stack focused on Python and the Microsoft ecosystem to solve complex data challenges.
 
 ## PROJECTS 

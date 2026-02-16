@@ -6,7 +6,7 @@ While my academic foundation is in Civil Engineering, I have spent my career sel
 
 ## PROJECTS 
 
-a) Exploratory Data Analysis & Interactive Visualization (Python & Streamlit)
+**a) Exploratory Data Analysis & Interactive Visualization (Python & Streamlit)**
 Context: Raw data is rarely ready for immediate consumption. This project focuses on the critical "pre-engineering" phase: cleaning, transforming, and visualizing datasets to uncover actionable insights. I wanted to create a solution where non-technical stakeholders could interact with data without needing to write a single line of code.
 
 **The Solution:**
